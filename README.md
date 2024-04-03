@@ -17,7 +17,7 @@ To use **R** for the whole analysis, there is the main tutorial:
   
 To install the package, type the following in the R console: 
 ```R
-devtools::install_github("itikadi/emogeav1", build_vignettes = TRUE)
+devtools::install_github("iahmedh493/emogeav3", build_vignettes = TRUE)
 ```
 
 Check the vignette to see how to use the package:
